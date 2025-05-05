@@ -21,7 +21,6 @@ params = {
     "pl": f"w:5,{pl_param}"
 }
 
-# URL API Яндекс.Карт
 url = "https://static-maps.yandex.ru/1.x/"
 
 # Отправляем запрос
